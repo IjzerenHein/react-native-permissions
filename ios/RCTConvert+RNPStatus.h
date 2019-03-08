@@ -18,6 +18,7 @@ static NSString* RNPStatusUndetermined = @"undetermined";
 static NSString* RNPStatusDenied = @"denied";
 static NSString* RNPStatusAuthorized = @"authorized";
 static NSString* RNPStatusRestricted = @"restricted";
+static NSString* RNPStatusUnupported = @"unsupported";
 
 
 typedef NS_ENUM(NSInteger, RNPType) {
